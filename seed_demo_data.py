@@ -33,11 +33,11 @@ from db import (
 # ── Config ──────────────────────────────────────────────────────────────────
 STUDENT_ID   = "demo_student"
 STUDENT_NAME = "Akshat Singh"
-STUDENT_PASS = "demo123"
+STUDENT_PASS = "CHANGE_ME"
 
 TEACHER_ID   = "demo_teacher"
 TEACHER_NAME = "Prof. Sharma"
-TEACHER_PASS = "demo123"
+TEACHER_PASS = "CHANGE_ME"
 
 SUBJECT = "Machine Learning"
 
